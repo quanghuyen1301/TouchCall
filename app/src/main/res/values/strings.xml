@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Touch Call</string>
+    <string name="hello_world">Touch Call</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_action_addnewuser">Thêm số điện thoại</string>
+    <string name="list_phone_number">List Fone Number</string>
+    <string name="imagebg">Ảnh nền</string>
+	<string name="about">This is app opensource at :\n https://github.com/quanghuyen1301/TouchCall</string>
+</resources>

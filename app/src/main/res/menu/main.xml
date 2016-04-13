@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="github.com.touchcall.MainActivity" >
+ 
+    	<item
+        android:id="@+id/action_addnewuser"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/title_action_addnewuser"/>
+    
+        <item
+        android:id="@+id/ListUser"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/list_phone_number"/>
+        
+        <item
+        android:id="@+id/imagebackground"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/imagebg"/>
+       
+
+        <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="about"/>
+
+</menu>
